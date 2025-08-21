@@ -1,0 +1,10 @@
+a{
+    color: white;
+    background-color: #2196f3;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+a:hover{
+    background-color: #de1767;
+}

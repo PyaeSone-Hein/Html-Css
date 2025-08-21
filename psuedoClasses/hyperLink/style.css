@@ -1,0 +1,16 @@
+a:link{
+
+    color: white;
+    background-color: #de1767;
+    padding: 10px;
+    border-radius: 8px;
+
+}
+
+a:visited{
+    
+    color: white;
+    background-color: #241233;
+    padding: 10px;
+    border-radius: 8px;
+}
